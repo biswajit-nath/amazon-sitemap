@@ -9,3 +9,6 @@ The Amazon Sitemap Project incorporates intuitive search functionalities, person
 The primary objectives of the Amazon Sitemap Project are to enhance user satisfaction, increase discoverability of products, and streamline the overall navigation experience. By implementing this comprehensive sitemap, Amazon aims to provide users with a seamless and efficient browsing experience, fostering customer loyalty and driving higher conversion rates.
 
 Through continuous analysis and user feedback, the Amazon Sitemap Project will evolve and adapt to the ever-changing needs and preferences of customers, ensuring that the sitemap remains a reliable tool for effortless exploration and discovery of Amazon's extensive product catalog.
+
+
+![amazon sitemap](https://github.com/biswajit-nath/amazon-sitemap/amazon sitemap design.png)
